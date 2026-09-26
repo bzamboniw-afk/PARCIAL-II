@@ -1,4 +1,4 @@
-public class NombreFigura extends FiguraPlana {
+public class NombreFigura extends FIGURAPLANA {
 
     private double medida;
 
